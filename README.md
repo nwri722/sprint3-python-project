@@ -1,2 +1,11 @@
-# sprint3-python-project
-Sprint 3 Python Foundations — Video Game Sales Analysis
+# Task 7
+
+readme_text = """
+Sprint Project: Video Game Sales
+
+This project analyzes video game sales data using basic Python concepts such as loops, dictionaries, functions, and lists.
+
+Dataset Source: Video Game Sales Dataset
+"""
+
+print(readme_text)
